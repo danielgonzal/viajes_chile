@@ -1,3 +1,9 @@
+.barra_navegacion {
+    background-color: transparent;
+    /*position: absolute;
+    z-index: 1;*/
+}
+
 .div_figura {
     background-color: aqua;
 }
